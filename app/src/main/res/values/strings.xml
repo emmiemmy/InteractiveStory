@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="title">Signals from Mars</string>
+    <string name="editTextHint">Enter your name to start</string>
+    <string name="buttonStart">start you journey!</string>
+    <string name="imageViewDescription">Signals from Mars</string>
+</resources>
